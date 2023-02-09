@@ -104,8 +104,7 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2208.01618)][[Github](https://github.c
 ICLR 2023.[[Paper](https://arxiv.org/abs/2205.15868)][[Github](https://github.com/THUDM/CogVideo)]
 
 **Learning Input-Agnostic Manipulation Directions in StyleGAN with Text Guidance**\
-ICLR 2023.[[Paper](https://openreview.net/pdf?
-id=47B_ctC4pJ)]
+ICLR 2023.[[Paper](https://openreview.net/pdf?id=47B_ctC4pJ)]
 
 **CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation**\
 CVPR 2022.[[Paper](https://arxiv.org/abs/2110.02624)][[Github](https://github.com/AutodeskAILab/Clip-Forge)]
@@ -146,10 +145,10 @@ arXiv 2022.[[Paper](https://arxiv.org/abs/2210.04150)]
 CVPR 2022.[[Paper](https://arxiv.org/abs/2112.10003)][[Github](https://github.com/timojl/clipseg)]
 
 **MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining**\
-arXiv 2022.[[Paper](MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining)]
+arXiv 2022.[[Paper](https://arxiv.org/abs/2208.12262)]
 
 **DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**\
-CVPR 2022.[Paper[https://arxiv.org/abs/2112.01518]]
+CVPR 2022.[[Paper](https://arxiv.org/abs/2112.01518)]
 
 **GroupViT: Semantic Segmentation Emerges from Text Supervision**\
 CVPR 2022.[[Paper](https://arxiv.org/abs/2202.11094)]
